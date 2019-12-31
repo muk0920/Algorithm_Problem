@@ -1,0 +1,5 @@
+4
+abac
+aba
+ccbabababac
+abcabcabcabcabcaa
