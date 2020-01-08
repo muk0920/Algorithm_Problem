@@ -113,6 +113,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="8771_덧셈문제.cpp" />
     <ClCompile Include="8898_3차원 농부.cpp" />
     <ClCompile Include="8934_펠린드롬 공포증.cpp" />
     <ClCompile Include="8993_하지추측.cpp" />
