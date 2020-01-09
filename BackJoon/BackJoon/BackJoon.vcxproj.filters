@@ -21,5 +21,8 @@
     <ClCompile Include="5612_터널의 입구와 출구.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="1188_음식 평론가.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
