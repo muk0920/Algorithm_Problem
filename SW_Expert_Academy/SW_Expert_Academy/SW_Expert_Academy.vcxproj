@@ -75,6 +75,9 @@
       <Optimization>Disabled</Optimization>
       <SDLCheck>true</SDLCheck>
     </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+    </Link>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
     <ClCompile>
@@ -113,6 +116,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="3812_호중이의 큐브색칠.cpp" />
     <ClCompile Include="8898_3차원 농부.cpp" />
     <ClCompile Include="8934_펠린드롬 공포증.cpp" />
     <ClCompile Include="8993_하지추측.cpp" />

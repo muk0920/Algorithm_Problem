@@ -24,6 +24,9 @@
     <ClCompile Include="8898_3차원 농부.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="3812_호중이의 큐브색칠.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
