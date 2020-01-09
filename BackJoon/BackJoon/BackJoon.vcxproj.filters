@@ -18,5 +18,8 @@
     <ClCompile Include="2033_반올림.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="5612_터널의 입구와 출구.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
