@@ -24,5 +24,13 @@
     <ClCompile Include="1188_음식 평론가.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="4811_알약.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="4811.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
   </ItemGroup>
 </Project>
