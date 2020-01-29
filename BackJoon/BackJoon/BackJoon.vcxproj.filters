@@ -33,6 +33,9 @@
     <ClCompile Include="2156_포도주시식.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="2819_상근이의 로봇.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
