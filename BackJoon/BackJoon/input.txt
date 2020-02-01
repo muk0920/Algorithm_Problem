@@ -1,7 +1,5 @@
-6
-hello
-hi
-h
-run
-rerun
-running
+3 5
+0 0
+1 1
+1 -1
+SIJJZ

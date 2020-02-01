@@ -27,13 +27,13 @@
     <ClCompile Include="4811_알약.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="3098_소셜네트워크.cpp">
+    <ClCompile Include="미해결_2110_공유기 설치.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="1141_접두사.cpp">
+    <ClCompile Include="2156_포도주시식.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="123.cpp">
+    <ClCompile Include="2819_상근이의 로봇.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
