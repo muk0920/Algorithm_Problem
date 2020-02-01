@@ -15,6 +15,8 @@ void Find_Root(int st, int mv, int cnt, int money) {
 		return; 
 	}
 
+	if (min_money <= money)	return;		// 백트래킹 
+
 	for (int i = 0; i < N; i++) {
 		if (!visited[i] && graph[mv][i] != 0) { // 현재 위치에서 다음 위치로 갈 수 있어야 하고, 방문하지 않은 위치여야한다. 
 			visited[i] = true; 
