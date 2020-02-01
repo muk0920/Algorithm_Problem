@@ -27,6 +27,15 @@
     <ClCompile Include="4811_알약.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="3098_소셜네트워크.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="1141_접두사.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="123.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
