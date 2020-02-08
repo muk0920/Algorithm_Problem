@@ -45,7 +45,10 @@
     <ClCompile Include="2503_숫자야구.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="6581_HTML.cpp">
+    <ClCompile Include="9207_페그 솔리테어.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="1938_통나무 옮기기.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
