@@ -51,6 +51,9 @@
     <ClCompile Include="1938_통나무 옮기기.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="9663_N-Queen.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
