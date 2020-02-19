@@ -60,9 +60,21 @@
     <ClCompile Include="10845_큐.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="미해결_2904_수학은 너무 쉬워.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="5376_소수를 분수로.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="1256_사전.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="input_1256.txt">
       <Filter>Resource Files</Filter>
     </Text>
   </ItemGroup>
