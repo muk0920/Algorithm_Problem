@@ -78,7 +78,10 @@
     <ClCompile Include="5568_카드놓기.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="5557_1학년.cpp">
+    <ClCompile Include="미해결_5557_1학년.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="1735_분수합.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
