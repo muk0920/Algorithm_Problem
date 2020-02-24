@@ -84,6 +84,18 @@
     <ClCompile Include="1735_분수합.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="13251_조약돌꺼내기.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="미해결_14476_최대공약수하나빼기.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="미해결_2580_스도쿠.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="5427_불.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
@@ -96,6 +108,21 @@
       <Filter>Resource Files</Filter>
     </Text>
     <Text Include="input_5557.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="input_13251.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="input_14476.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="input_2580.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="input_15658.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="input_5427.txt">
       <Filter>Resource Files</Filter>
     </Text>
   </ItemGroup>
