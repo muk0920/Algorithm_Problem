@@ -96,6 +96,9 @@
     <ClCompile Include="5427_불.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="2864_5와6의 차이.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
