@@ -187,7 +187,11 @@
     <ClCompile Include="2789_유학금지.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="2857_FBI.cpp" />
     <ClCompile Include="2864_5와6의 차이.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="3986_좋은단어.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
     <ClCompile Include="4949_균형잡인세상.cpp">
@@ -301,6 +305,8 @@
     <Text Include="input_14476.txt" />
     <Text Include="input_15658.txt" />
     <Text Include="input_2580.txt" />
+    <Text Include="input_2857.txt" />
+    <Text Include="input_3986.txt" />
     <Text Include="input_4949.txt" />
     <Text Include="input_5218.txt" />
     <Text Include="input_5427.txt" />

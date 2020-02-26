@@ -120,6 +120,12 @@
     <ClCompile Include="5586_JOI와IOI.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="3986_좋은단어.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="2857_FBI.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
@@ -156,6 +162,12 @@
       <Filter>Resource Files</Filter>
     </Text>
     <Text Include="input_5218.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="input_3986.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="input_2857.txt">
       <Filter>Resource Files</Filter>
     </Text>
   </ItemGroup>
