@@ -99,6 +99,27 @@
     <ClCompile Include="2864_5와6의 차이.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="10987_모음의개수.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="5598_카이사르암호.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="4949_균형잡인세상.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="2789_유학금지.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="9935_문자열폭발.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="5218_알파벳거리.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="5586_JOI와IOI.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
@@ -126,6 +147,15 @@
       <Filter>Resource Files</Filter>
     </Text>
     <Text Include="input_5427.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="input_4949.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="input_9935.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="input_5218.txt">
       <Filter>Resource Files</Filter>
     </Text>
   </ItemGroup>
