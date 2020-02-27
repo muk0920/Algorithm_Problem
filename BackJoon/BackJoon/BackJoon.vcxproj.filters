@@ -126,6 +126,30 @@
     <ClCompile Include="2857_FBI.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="1919_에너그램만들기.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="9933_민균이의비밀번호.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="1371_가장많은글자.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="18429_근손실.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="18352_특정거리의도시찾기.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="18428_감시피하기.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="미해결_18353_병사배치하기.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="18430_무기공학.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
@@ -168,6 +192,27 @@
       <Filter>Resource Files</Filter>
     </Text>
     <Text Include="input_2857.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="input_9933.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="input_1371.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="input_18429.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="input_18353.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="input_18352.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="input_18428.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="input_18430.txt">
       <Filter>Resource Files</Filter>
     </Text>
   </ItemGroup>
