@@ -210,6 +210,27 @@
     <ClCompile Include="2075_N번째큰수.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="1577_도로의개수.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="2630_색종이만들기.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="1034_램프.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="20200321_모의테스트_1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="미해결_20200321_모의테스트_2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="14497_주난의난.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="15661_링크와스타트.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
@@ -321,6 +342,27 @@
       <Filter>Resource Files</Filter>
     </Text>
     <Text Include="input_2075.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="input_1577.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="input_2630.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="input_1034.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="input_1.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="input_2.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="input_14497.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="input_15661.txt">
       <Filter>Resource Files</Filter>
     </Text>
   </ItemGroup>
