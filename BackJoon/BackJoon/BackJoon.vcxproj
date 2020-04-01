@@ -146,6 +146,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="10216_CounterCircleGroups.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="1034_램프.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>
@@ -221,6 +224,22 @@
     <ClCompile Include="14497_주난의난.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="14627_파닭파닭.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="16918_봄버맨.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="17141_연구소2.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="미해결_2406_안정적인 네트워크.cpp" />
+    <ClCompile Include="미해결_2758_로또.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="미해결_1495_기타리스트.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="15661_링크와스타트.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
@@ -230,6 +249,9 @@
     </ClCompile>
     <ClCompile Include="16197_두동전.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="미해결_1943_동전분배.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
     <ClCompile Include="20200321_모의테스트_1.cpp">
@@ -452,10 +474,14 @@
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="블록 이동하기.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt" />
     <Text Include="input_1.txt" />
+    <Text Include="input_10216.txt" />
     <Text Include="input_1034.txt" />
     <Text Include="input_10769.txt" />
     <Text Include="input_11048.txt" />
@@ -467,12 +493,16 @@
     <Text Include="input_1371.txt" />
     <Text Include="input_14476.txt" />
     <Text Include="input_14497.txt" />
+    <Text Include="input_14627.txt" />
     <Text Include="input_1477.txt" />
+    <Text Include="input_1495.txt" />
     <Text Include="input_1543.txt" />
     <Text Include="input_15658.txt" />
     <Text Include="input_15661.txt" />
     <Text Include="input_1577.txt" />
     <Text Include="input_16197.txt" />
+    <Text Include="input_16918.txt" />
+    <Text Include="input_17141.txt" />
     <Text Include="input_1718.txt" />
     <Text Include="input_18352.txt" />
     <Text Include="input_18353.txt" />
@@ -480,12 +510,14 @@
     <Text Include="input_18429.txt" />
     <Text Include="input_18430.txt" />
     <Text Include="input_18513.txt" />
+    <Text Include="input_1943.txt" />
     <Text Include="input_2.txt" />
     <Text Include="input_2075.txt" />
     <Text Include="input_2151.txt" />
     <Text Include="input_2580.txt" />
     <Text Include="input_2630.txt" />
     <Text Include="input_2636.txt" />
+    <Text Include="input_2758.txt" />
     <Text Include="input_2857.txt" />
     <Text Include="input_3079.txt" />
     <Text Include="input_3425.txt" />

@@ -231,6 +231,33 @@
     <ClCompile Include="15661_링크와스타트.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="미해결_1943_동전분배.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="10216_CounterCircleGroups.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="미해결_1495_기타리스트.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="블록 이동하기.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="14627_파닭파닭.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="16918_봄버맨.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="미해결_2758_로또.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="17141_연구소2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="미해결_2406_안정적인 네트워크.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
@@ -363,6 +390,27 @@
       <Filter>Resource Files</Filter>
     </Text>
     <Text Include="input_15661.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="input_1943.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="input_10216.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="input_1495.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="input_14627.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="input_16918.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="input_2758.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="input_17141.txt">
       <Filter>Resource Files</Filter>
     </Text>
   </ItemGroup>
