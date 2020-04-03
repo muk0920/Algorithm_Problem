@@ -39,9 +39,6 @@
     <ClCompile Include="10971_외판원순회2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="미해결_3098_소셜 네크워크.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="2503_숫자야구.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -258,6 +255,9 @@
     <ClCompile Include="미해결_2406_안정적인 네트워크.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="3098_소셜 네크워크.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
@@ -411,6 +411,9 @@
       <Filter>Resource Files</Filter>
     </Text>
     <Text Include="input_17141.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="input_3098.txt">
       <Filter>Resource Files</Filter>
     </Text>
   </ItemGroup>
